@@ -2,9 +2,10 @@ init
 one
 tow
 汪振1111
-git init
+git init 1111111111111
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/wangzhen-CHN/git-learn.git
 git push -u origin main
+方婷婷
